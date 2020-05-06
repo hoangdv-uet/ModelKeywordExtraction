@@ -8,6 +8,8 @@
     * re
     * string
 
+Need to download [this model](https://drive.google.com/drive/folders/1QQQGnK4-FoPRueYO6PSPeosGA-IyQRgr?usp=sharing)!
+
 ### How to get entities:
 ```python
 from KeyWordExtraction import *
